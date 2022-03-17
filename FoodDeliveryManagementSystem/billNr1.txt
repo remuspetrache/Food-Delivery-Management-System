@@ -1,0 +1,6 @@
+Ordered products:
+Product name: 101 Whaler Fish Sandwich 
+Rating 4.375 out of 5
+It has 819 calories, 27 proteins, 65 fats, 941 sodium.
+Price: 85
+Total price of the order: 85

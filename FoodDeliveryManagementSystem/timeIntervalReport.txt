@@ -1,0 +1,6 @@
+1. Order ID: 2.
+The order was placed by client with ID: 1, at: 10 October 2021 11:10:00
+Total order price: 86
+2. Order ID: 1.
+The order was placed by client with ID: 1, at: 10 October 2021 10:10:00
+Total order price: 85
